@@ -48,6 +48,6 @@ three times, the figure will go three step down. If I call makeInvisible twice, 
 figure will disappear, no ,atter how many times I call the method.
 
 6. When I invoke the changeColor method and write the color that I want, the color of the selected  
-figure will change.S
+figure will change.
 
 
